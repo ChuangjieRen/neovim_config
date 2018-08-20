@@ -114,7 +114,7 @@ call plug#end()
 
 " UI Options {
     " Colorscheme options.
-    set termguicolors
+    " set termguicolors
     set background=dark
     colorscheme molokai
     " colorscheme solarized
